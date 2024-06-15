@@ -38,3 +38,4 @@ This project focuses on training an AI agent to play the classic Snake game usin
 ## Notes
 
 - Ensure you have Python installed on your system. You can download it from [python.org](https://www.python.org/).
+- All the project is made on windows may face error on other os
