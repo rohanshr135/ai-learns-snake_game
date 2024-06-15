@@ -9,7 +9,7 @@ This project focuses on training an AI agent to play the classic Snake game usin
     cd Recommender-system
     ```
 
-2. **Create and activate a virtual environment:**
+2. **Create and activate a conda virtual environment:**
 
     - For Windows:
       ```sh
